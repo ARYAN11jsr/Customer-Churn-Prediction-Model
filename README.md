@@ -85,8 +85,9 @@ Classification Report → precision, recall, and F1-score
 
 
 # RESULTS :
-- Model Accuracy - 77.8%
-- Model Used - RandomForest Classifier
+- Model Accuracy : 77.8%
+- Model Used : Random Forest Classifier
+- Evaluation Metrics : Accuracy Score, Confusion Matrix, Classification Report
 
 # INSIGHTS :
 - Customers with month-to-month contracts have the highest churn rate, while long-term contract customers are more likely to stay.
