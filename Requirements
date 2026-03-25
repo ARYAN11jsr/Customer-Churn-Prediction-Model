@@ -1,0 +1,8 @@
+# LIBRARIES USED: 
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- imblearn
+- xgboost
